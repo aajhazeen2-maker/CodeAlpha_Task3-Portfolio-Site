@@ -24,7 +24,7 @@ This is my portfolio site showcasing my skills, projects, and experience as an I
 
 ## Live Site
 
-[View Portfolio](https://aajhazeen2-maker.github.io/portfolio)
+[View Portfolio](https:/aajhazeen2-maker.github.io/portfolio)
 
 ## Contact
 
